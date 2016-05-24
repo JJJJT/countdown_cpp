@@ -2,6 +2,8 @@
 countdown_cpp
 
 
+![](./screen.gif)
+
 ```
 
 //main.c
